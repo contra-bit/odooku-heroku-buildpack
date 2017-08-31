@@ -1,0 +1,12 @@
+{
+  "name": "Odoo",
+  "description": "Open ERP",
+  "keywords": [
+    "app-cloud"
+  ],
+  "repository": "https://github.com/contra-bit/odooku-heroku-buildpack",
+  "addons": [
+    "heroku-postgresql"
+    "heroku-redis"
+  ]
+}
